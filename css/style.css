@@ -1,0 +1,62 @@
+body{
+    padding-top: 50px !important;
+}
+.title-text{
+    margin: 0;
+    font-size: 20px;
+    vertical-align: middle;
+    color:#fff !important;
+}
+
+#welcome{
+background-image:url(../img/bg2000.jpg);
+background-repeat: no-repeat;
+
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+ }
+
+ .jumbotron-fluid .image{
+    margin: 0 auto;
+ }
+#article .bio{
+    background-color: #101010;
+    color: #fff;
+    text-align: center;
+}
+#title-bar{
+text-align: center;
+background-color: #101010;
+margin-top: 0;
+margin-bottom: 4em;
+color: #fff;
+}
+#title-bar h3{
+    margin: 20px !important;
+}
+#middle{
+    margin-bottom: 40px;
+}
+#middle .row .btn{
+    margin-bottom:20px !important;
+}
+.pic{
+    width:100%;
+    padding:3px;
+    border: 1px solid #ccc;
+}
+.glyphicons li{
+    display: inline-block !important;
+    list-style: none;
+    font-size: 45px;
+    margin: 0 15px 0 15px;
+}
+#contacts{
+    background-color: #101010;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+ul .glyphicons{
+    margin:10px 0 10px 0;
+}
